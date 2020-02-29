@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5eed83fd-ad98-4195-a527-c0f7ff89d1f2" name="Default Changelist" comment="" />
+    <list default="true" id="5eed83fd-ad98-4195-a527-c0f7ff89d1f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/LocatingMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/LocatingMap.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YUihEQl4D1roRRFjbnnS5bOlhw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,5 +38,22 @@
       <updated>1583003690322</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1240" height="623" key="DiffContextDialog" timestamp="1583009040407">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="100" y="123" width="1240" height="623" key="DiffContextDialog/0.23.1440.826@0.23.1440.826" timestamp="1583009040407" />
   </component>
 </project>
